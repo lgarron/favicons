@@ -6,3 +6,4 @@
 [![readthedocs.org](readthedocs.org/readthedocs.org@2x.png)](https://readthedocs.org/)
 [![worldcubeassociation.org](worldcubeassociation.org/worldcubeassociation.org@2x.png)](https://worldcubeassociation.org/)
 [![crypto.graphics](crypto.graphics/crypto.graphics.png)](https://crypto.graphics/)
+[![paperless](paperless/paperless.ico)](https://paperless.stanford.edu)
