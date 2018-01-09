@@ -11,13 +11,13 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
    width="32"
    height="32"
    sodipodi:docname="touch-icon.svg"
-   inkscape:export-filename="/Users/lgarron/Dropbox/Code/GitHub/favicons/timer.cubing.net/touch-icon.png"
-   inkscape:export-xdpi="360"
-   inkscape:export-ydpi="360">
+   inkscape:export-filename="/Users/lgarron/Dropbox/Code/GitHub/favicons/timer.cubing.net/touch-icon-144.png"
+   inkscape:export-xdpi="432"
+   inkscape:export-ydpi="432">
   <metadata
      id="metadata8">
     <rdf:RDF>
@@ -26,7 +26,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -41,16 +41,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1280"
-     inkscape:window-height="751"
+     inkscape:window-width="1443"
+     inkscape:window-height="683"
      id="namedview4"
      showgrid="true"
      inkscape:zoom="10.429825"
-     inkscape:cx="20.247953"
+     inkscape:cx="11.475035"
      inkscape:cy="19.025609"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
+     inkscape:window-x="4"
+     inkscape:window-y="159"
+     inkscape:window-maximized="0"
      inkscape:current-layer="svg2">
     <inkscape:grid
        type="xygrid"
@@ -142,15 +142,18 @@
   </g>
   <text
      xml:space="preserve"
-     style="font-size:13.36877537px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+     style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
      x="0.31653133"
      y="27.608"
-     id="text3812"
-     sodipodi:linespacing="125%"><tspan
+     id="text3812"><tspan
        sodipodi:role="line"
        id="tspan3814"
        x="0.31653133"
        y="27.608"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Digital-7;-inkscape-font-specification:Digital-7"
-       dx="0 0 0 -3.1772943">11.13</tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.36877537px;line-height:1.25;font-family:Digital-7;-inkscape-font-specification:Digital-7"
+       dx="0 0 0 -3.1772943">11<tspan
+   style="letter-spacing:-2px"
+   id="tspan3720">.</tspan><tspan
+   style="letter-spacing:2px"
+   id="tspan3722">1</tspan>3</tspan></text>
 </svg>
